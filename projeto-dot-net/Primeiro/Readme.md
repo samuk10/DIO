@@ -1,12 +1,18 @@
 ## Testes using Xunit no vscode.
     É necessário inserir testes no código para que verifique que não haja erros nas variáveis.
 
-1 - Instalar extensão "NuGet Package Manager"
+1 - Instalar extensão "NuGet Package Manager".
+
 2 - CTRL+SHIFT+P > NuGet Package Manager > pesquisar pelo pacote e instalar a versão desejada.
-3 - Salvar o projeto após instalar todas dependencias
+
+3 - Salvar o projeto após instalar todas dependencias.
+
 4 - Ao rodar "dotnet build" vai dar um erro pois foi adicionado um novo entrypoint sdk e não será mais o main.
-5 - Para corrigir o erro: adicionar a linha abaixo dentro do "xyz.csproj" > dentro de <PropertyGroup>
+
+5 - Para corrigir o erro: adicionar a linha abaixo dentro do "xyz.csproj" > dentro de <PropertyGroup>.
+
     <GenerateProgramFile>false</GenerateProgramFile>
+
 6 - Salvar novamente e rodar o build
 
 Neste caso as extensões que instalei utilizando sempre a ultima versão foram:
@@ -19,7 +25,4 @@ Neste caso as extensões que instalei utilizando sempre a ultima versão foram:
 7 - Criar um novo arquivo, ex.: testclass.cs
     esse arquivo irá testar a variável com um valor que vc definir para rodar durante o teste e identificar possíveis falhas.
 
-Em projetos vindos do Visual Studio
-
-
-é necessário remover o Are do Assert."Are"Equal
+Em projetos vindos do Visual Studio é necessário remover o Are do Assert.AreEqual ficando: Assert.Equal
