@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "29ydNOz2MmZ8yMpH64KGZdY9M7mMSdJQDiy1G6yoZQsVB6+VL2jP7veLRnNhfX5ORFOJ2Q+R4UpZ+0o4Rn0l9g==",
+  "success": true,
+  "projectFilePath": "/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Primeiro/Primeiro.csproj",
+  "expectedPackageFiles": [
+    "/home/samuel/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

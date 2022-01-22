@@ -1,0 +1,15 @@
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Primeiro/bin/Debug/net6.0/Primeiro
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Primeiro/bin/Debug/net6.0/Primeiro.deps.json
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Primeiro/bin/Debug/net6.0/Primeiro.runtimeconfig.json
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Primeiro/bin/Debug/net6.0/Primeiro.dll
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Primeiro/bin/Debug/net6.0/ref/Primeiro.dll
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Primeiro/bin/Debug/net6.0/Primeiro.pdb
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Primeiro/obj/Debug/net6.0/Primeiro.csproj.AssemblyReference.cache
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Primeiro/obj/Debug/net6.0/Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Primeiro/obj/Debug/net6.0/Primeiro.AssemblyInfoInputs.cache
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Primeiro/obj/Debug/net6.0/Primeiro.AssemblyInfo.cs
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Primeiro/obj/Debug/net6.0/Primeiro.csproj.CoreCompileInputs.cache
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Primeiro/obj/Debug/net6.0/Primeiro.dll
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Primeiro/obj/Debug/net6.0/ref/Primeiro.dll
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Primeiro/obj/Debug/net6.0/Primeiro.pdb
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Primeiro/obj/Debug/net6.0/Primeiro.genruntimeconfig.cache
