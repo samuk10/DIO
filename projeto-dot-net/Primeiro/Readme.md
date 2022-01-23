@@ -24,5 +24,3 @@ Neste caso as extensões que instalei utilizando sempre a ultima versão foram:
 
 7 - Criar um novo arquivo, ex.: testclass.cs
     esse arquivo irá testar a variável com um valor que vc definir para rodar durante o teste e identificar possíveis falhas.
-
-Em projetos vindos do Visual Studio é necessário remover o Are do Assert.AreEqual ficando: Assert.Equal
