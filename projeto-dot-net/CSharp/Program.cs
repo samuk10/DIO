@@ -6,6 +6,8 @@
 using System;
 using Primeiro;
 using Csharp;
+using Interface;
+using Enum;
 
 namespace Csharp
 {
@@ -13,6 +15,14 @@ namespace Csharp
     {
         static void Main(string[] args)
         {
+            // pegando a pessoa na posição 0
+            var pessoa1 = (Pessoas)0;
+            // pegando a index do joão
+            Pessoas pessoa2 = Pessoas.João;
+            // ou
+            Pessoas pessoa3 = (Pessoas)4;
+
+
             // Person vai ter o objeto com os valores de Pessoa
             Pessoa person = new Pessoa();
 
@@ -26,6 +36,11 @@ namespace Csharp
             person2.Idade = 23;
             person2.Estado = "Minas Gerais";
 
+            Animal animal = new Animal();
+            animal.Nome = "Rex";
+            animal.NomeDono = "Pedro";
+            animal.Especie = "Cachorro";
+
             // Aqui usei uma classe com namespace referenciado com using
             var classe = new Classe();
             // Aqui usei uma classe não referenciada com using, 
@@ -33,6 +48,7 @@ namespace Csharp
             var classe2 = new Segundo.Classe();
 
             Console.WriteLine("Hello, World!");
+            Console.WriteLine(person.Nome);
         }
     }
 }
