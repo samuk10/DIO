@@ -1,0 +1,15 @@
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/EstruturaDoPrograma/bin/Debug/net6.0/EstruturaDoPrograma
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/EstruturaDoPrograma/bin/Debug/net6.0/EstruturaDoPrograma.deps.json
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/EstruturaDoPrograma/bin/Debug/net6.0/EstruturaDoPrograma.runtimeconfig.json
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/EstruturaDoPrograma/bin/Debug/net6.0/EstruturaDoPrograma.dll
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/EstruturaDoPrograma/bin/Debug/net6.0/ref/EstruturaDoPrograma.dll
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/EstruturaDoPrograma/bin/Debug/net6.0/EstruturaDoPrograma.pdb
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/EstruturaDoPrograma/obj/Debug/net6.0/EstruturaDoPrograma.csproj.AssemblyReference.cache
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/EstruturaDoPrograma/obj/Debug/net6.0/EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/EstruturaDoPrograma/obj/Debug/net6.0/EstruturaDoPrograma.AssemblyInfoInputs.cache
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/EstruturaDoPrograma/obj/Debug/net6.0/EstruturaDoPrograma.AssemblyInfo.cs
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/EstruturaDoPrograma/obj/Debug/net6.0/EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/EstruturaDoPrograma/obj/Debug/net6.0/EstruturaDoPrograma.dll
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/EstruturaDoPrograma/obj/Debug/net6.0/ref/EstruturaDoPrograma.dll
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/EstruturaDoPrograma/obj/Debug/net6.0/EstruturaDoPrograma.pdb
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/EstruturaDoPrograma/obj/Debug/net6.0/EstruturaDoPrograma.genruntimeconfig.cache
