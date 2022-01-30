@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ht6ogR72/aYzHfdb6PjtWnb+ghlAX1MouHgR1aHG/DUDLNRQoi4DTpB8VKDg5aMCvSCRaMYXxtdY1VUt2v6Qdw==",
+  "success": true,
+  "projectFilePath": "/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Instrucoes/Instrucoes.csproj",
+  "expectedPackageFiles": [
+    "/home/samuel/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
