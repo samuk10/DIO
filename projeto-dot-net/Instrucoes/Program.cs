@@ -11,7 +11,7 @@ namespace Instrucoes
             int b = 2, c = 3;
             const int d = 4; // const não pode ser alterada
             a = 1;
-            d = 5; // não vai alterar o valor de d, pois é const
+            b = 5; // não vai alterar o valor de d, pois é const
             Console.WriteLine(a + b + c + d);
             // vai printar valor 10
         }
@@ -55,7 +55,7 @@ namespace Instrucoes
             {
                 // enquanto i for menor que o numero do arg, imprimo.
                 Console.WriteLine(args[i]);
-                i++
+                i++;
             }
         }
         static void InstrucaoDo(string[] args)
@@ -105,13 +105,87 @@ namespace Instrucoes
         }
         static void InstrucaoContinue(string[] args)
         {
-            for (int i = 0; i < args.Length("/"))
-                continue;
+            // se começar com / eu continuo, senão eu paro
+            for (int i = 0; i < args.Length; i++)
+            {
+                if (args[i].StartsWith("/"))
+                    continue;
 
-            Console.WriteLine(args[i]);
+                Console.WriteLine(args[i]);
+            }
         }
+        static void InstrucaoReturn()
+        {
+            int Somar(int a, int b)
+            {
+                return a + b;
+            }
 
+            Console.WriteLine(Somar(1, 2));
+            Console.WriteLine(Somar(3, 4));
+            Console.WriteLine(Somar(5, 6));
+            return;
+        }
+        static void InstrucoesTryCatchFinallyThrow(string[] args)
+        {
+            double Dividir(double x, double y)
+            // double significa que espero 2 strings no metodo 
+            // para que possa ser feita a operação
+            {
+                // se for zero já mostra erro, pois não ter divisão por zero.
+                if (y == 0)
+                    throw new DivideByZeroException();
 
+                return x / y;
+            }
+
+            try
+            {
+                // Try catch tenta pegar os exception e tratar
+                // Se o numero de argumentos for diferente de 2 eu vou
+                // escrever a mensagem ""
+                if (args.Length != 2)
+                {
+                    throw new InvalidOperationException("Informe 2 Números");
+                }
+
+                // Defino quem é X e Y no array
+                // X = posição 0 ; Y = posição 1
+                double x = double.Parse(args[0]);
+                double y = double.Parse(args[1]);
+                Console.WriteLine(Dividir(x, y));
+            }
+            // esse catch vai pegar "InvalidOperationExceptio"
+            // e mostra a mensagem de exception acima do "informxx.. 2"
+            catch (InvalidOperationException e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            // se for qualquer outra exception, cai nesse aqui
+            // e mostra erro genérico e msg da exception
+            catch (Exception e)
+            {
+                Console.WriteLine($"Erro Genérico: {e.Message}");
+            }
+            finally
+            // se der certo e se der alguma exceção ele mostra até breve
+            {
+                Console.WriteLine("Até Breve!");
+            }
+        }
+        static void InstrucaoUsing(string[] args)
+        {
+            // Geralmente as Operações de IO, entrada e saida de dados, ficam em memoria
+            // Do modo abaixo, ele apaga automaticamente da memoria logo após a operação
+            // Escrever um arquivo de texto e algumas linhas dentro dele
+            // 
+            using (System.IO.TextWriter w = System.IO.File.CreateText("texte.txt"))
+            {
+                w.WriteLine("Line 1");
+                w.WriteLine("Line 2");
+                w.WriteLine("Line 3");
+            }
+        }
     }
 }
 
