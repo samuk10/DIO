@@ -1,0 +1,15 @@
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Classes/bin/Debug/net6.0/Classes
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Classes/bin/Debug/net6.0/Classes.deps.json
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Classes/bin/Debug/net6.0/Classes.runtimeconfig.json
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Classes/bin/Debug/net6.0/Classes.dll
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Classes/bin/Debug/net6.0/ref/Classes.dll
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Classes/bin/Debug/net6.0/Classes.pdb
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Classes/obj/Debug/net6.0/Classes.csproj.AssemblyReference.cache
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Classes/obj/Debug/net6.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Classes/obj/Debug/net6.0/Classes.AssemblyInfoInputs.cache
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Classes/obj/Debug/net6.0/Classes.AssemblyInfo.cs
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Classes/obj/Debug/net6.0/Classes.csproj.CoreCompileInputs.cache
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Classes/obj/Debug/net6.0/Classes.dll
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Classes/obj/Debug/net6.0/ref/Classes.dll
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Classes/obj/Debug/net6.0/Classes.pdb
+/home/samuel/Projetos/dio-desafio-github/projeto-dot-net/Classes/obj/Debug/net6.0/Classes.genruntimeconfig.cache
